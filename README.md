@@ -171,14 +171,14 @@ Fim Para
 </div>
 
 ## 🟧 Declare (GB)
-Used to declare variables or method referGBces.
+Used to declare variables or method references.
 <br>
 Examples:
 - **Declare** and instantiate an `int` variable to store value `x`.
 - **Declare** a method `start()` to initialize the system.
 
 ## 🟧 Method / End Method (GB)
-Used to define methods and mark the GBd of a method block.
+Used to define methods and mark the end of a method block.
 <br>
 Example:
 ```
@@ -228,7 +228,7 @@ Repeat this for each one of the x object on y list
     Do something
 End Repeat
 
-Repeat this while x is not equal to the lGBght of y list
+Repeat this while x is not equal to the lenght of y list
     Do something
 End Repeat
 ```
@@ -239,7 +239,7 @@ Used to call a method on a class or object.
 Example: **Call** method `process(String value)`.
 
 ## 🟧 Get (GB)
-Used whGB a variable receives a value from a method or input.
+Used when a variable receives a value from a method or input.
 <br>
 Example: **Get** the user input.
 
@@ -261,9 +261,9 @@ Decision-making structures(If, Else If, Else, Switch).
 Example:
 ```
 If the number from x is equals 8
-    DecremGBt x
-If not thGB
-    IncremGBt x
+    Decrement x
+If not then
+    Increment x
 End If
 ```
 
